@@ -1,0 +1,62 @@
+.container01 {
+    background-image: url(/resources/pg_home/home/01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container02 {
+    background-image: url(/resources/pg_home/home/03.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container03 {
+    background-image: url(/resources/pg_home/home/02.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.container04 {
+    background-image: url(/resources/pg_home/home/04.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+h1, h5{
+    color: white;
+}
+
+.titlepadding{
+    padding-top: 185px;
+}
+
+.titlepadding button{
+    width: 160px;
+    height: 50px;
+}
+
+.footer {
+    background-color: black;
+    color: red;
+}
+
+.link {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+
+.link:hover {
+    color: red;
+    border-bottom: 2px solid red;
+}
+
