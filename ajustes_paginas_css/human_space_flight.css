@@ -1,0 +1,120 @@
+*{
+    color: white;
+}
+
+.container01{
+    background-image: url(/resources/pg_humanFlight/humanFlight/01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container02{
+    background-image: url(/resources/pg_humanFlight/humanFlight/02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container03{
+    background-image: url(/resources/pg_humanFlight/humanFlight/03.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container04{
+    background-image: url(/resources/pg_humanFlight/humanFlight/04.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container05{
+    background-image: url(/resources/pg_humanFlight/humanFlight/05.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container06{
+    background-color: black;
+    height: 100vh;
+}
+
+.h1{
+    font-size: 120px;
+}
+
+.title{
+    font-size: 15px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.text01 p{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.text01{
+    background-color: black;
+    height: 30vh;
+}
+
+.containerRightContent{
+    padding-left: 55%;
+    padding-top: 15%;
+}
+
+.subTitle{
+    font-weight: 200;
+    font-size: medium;
+}
+
+.titleSection{
+    font-size: 60px;
+}
+
+.text03, .text05{
+    padding-top: 18%;
+}
+
+.btn{
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   width: auto;
+}
+
+.text06{
+    padding: 250px;
+}
+
+.footer{
+    background-color: #000;
+}
+
+.link {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+
+.link:hover {
+    color: red;
+    border-bottom: 2px solid red;
+}
+
+span{
+    color: #555252;
+}
