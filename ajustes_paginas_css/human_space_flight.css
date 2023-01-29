@@ -10,6 +10,11 @@
     height: 100vh;
 }
 
+.nav-link:hover {
+    color: #000!important;
+    scale: 1.1;
+}
+
 .container02{
     background-image: url(/resources/pg_humanFlight/humanFlight/02.jpg);
     background-repeat: no-repeat;
